@@ -27,6 +27,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:src="@drawable/baseline_add_24"
             android:onClick="@{clickHandler::onFABClick}"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
