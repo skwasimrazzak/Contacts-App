@@ -65,10 +65,6 @@ This application follows the MVVM architecture, which consists of:
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 
 Feel free to update this README with any additional information or instructions specific to your project.
